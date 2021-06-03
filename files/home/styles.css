@@ -1219,7 +1219,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:48px;
+  width:46px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0.737254901960784);
@@ -1228,7 +1228,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1240,9 +1240,9 @@
   position:absolute;
   left:450px;
   top:68px;
-  width:48px;
+  width:46px;
   height:17px;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1254,7 +1254,7 @@
   position:absolute;
   left:6px;
   top:1px;
-  width:36px;
+  width:34px;
   white-space:nowrap;
 }
 #u32_div {
@@ -1262,7 +1262,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:76px;
+  width:73px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0.737254901960784);
@@ -1271,7 +1271,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1283,9 +1283,9 @@
   position:absolute;
   left:492px;
   top:135px;
-  width:76px;
+  width:73px;
   height:17px;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1297,7 +1297,7 @@
   position:absolute;
   left:6px;
   top:1px;
-  width:65px;
+  width:61px;
   white-space:nowrap;
 }
 #u33_div {
@@ -1305,7 +1305,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:95px;
+  width:88px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0.737254901960784);
@@ -1314,7 +1314,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1326,9 +1326,9 @@
   position:absolute;
   left:341px;
   top:19px;
-  width:95px;
+  width:88px;
   height:17px;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1340,7 +1340,7 @@
   position:absolute;
   left:6px;
   top:1px;
-  width:83px;
+  width:76px;
   white-space:nowrap;
 }
 #u34_div {
@@ -1348,7 +1348,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:75px;
+  width:69px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0.737254901960784);
@@ -1357,7 +1357,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1369,9 +1369,9 @@
   position:absolute;
   left:145px;
   top:30px;
-  width:75px;
+  width:69px;
   height:17px;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1383,7 +1383,7 @@
   position:absolute;
   left:6px;
   top:1px;
-  width:60px;
+  width:57px;
   white-space:nowrap;
 }
 #u35_div {
@@ -1391,7 +1391,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:69px;
+  width:67px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0.737254901960784);
@@ -1400,7 +1400,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1412,9 +1412,9 @@
   position:absolute;
   left:66px;
   top:86px;
-  width:69px;
+  width:67px;
   height:17px;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1426,7 +1426,7 @@
   position:absolute;
   left:6px;
   top:1px;
-  width:56px;
+  width:55px;
   white-space:nowrap;
 }
 #u36_div {
@@ -1434,7 +1434,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:71px;
+  width:64px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0.737254901960784);
@@ -1443,7 +1443,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1455,9 +1455,9 @@
   position:absolute;
   left:7px;
   top:172px;
-  width:71px;
+  width:64px;
   height:17px;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1469,7 +1469,7 @@
   position:absolute;
   left:6px;
   top:1px;
-  width:60px;
+  width:52px;
   white-space:nowrap;
 }
 #u37_div {
@@ -1477,7 +1477,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:78px;
+  width:71px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0.737254901960784);
@@ -1486,7 +1486,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1498,9 +1498,9 @@
   position:absolute;
   left:0px;
   top:289px;
-  width:78px;
+  width:71px;
   height:17px;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1512,7 +1512,7 @@
   position:absolute;
   left:6px;
   top:1px;
-  width:66px;
+  width:59px;
   white-space:nowrap;
 }
 #u38_div {
@@ -1520,7 +1520,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:91px;
+  width:85px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0.737254901960784);
@@ -1529,7 +1529,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1541,9 +1541,9 @@
   position:absolute;
   left:43px;
   top:371px;
-  width:91px;
+  width:85px;
   height:17px;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1555,7 +1555,7 @@
   position:absolute;
   left:6px;
   top:1px;
-  width:77px;
+  width:73px;
   white-space:nowrap;
 }
 #u39_div {
@@ -1563,7 +1563,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:126px;
+  width:112px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0.737254901960784);
@@ -1572,7 +1572,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1584,9 +1584,9 @@
   position:absolute;
   left:372px;
   top:403px;
-  width:126px;
+  width:112px;
   height:17px;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1598,7 +1598,7 @@
   position:absolute;
   left:6px;
   top:1px;
-  width:113px;
+  width:100px;
   white-space:nowrap;
 }
 #u40_div {
@@ -1606,7 +1606,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:107px;
+  width:97px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0.737254901960784);
@@ -1615,7 +1615,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1627,9 +1627,9 @@
   position:absolute;
   left:467px;
   top:336px;
-  width:107px;
+  width:97px;
   height:17px;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1641,7 +1641,7 @@
   position:absolute;
   left:6px;
   top:1px;
-  width:93px;
+  width:85px;
   white-space:nowrap;
 }
 #u41_div {
@@ -1649,7 +1649,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:75px;
+  width:73px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0.737254901960784);
@@ -1658,7 +1658,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1670,9 +1670,9 @@
   position:absolute;
   left:232px;
   top:424px;
-  width:75px;
+  width:73px;
   height:17px;
-  font-family:'Segoe UI Bold', 'Segoe UI Regular', 'Segoe UI';
+  font-family:'Barlow';
   font-weight:700;
   font-style:normal;
   font-size:11px;
@@ -1684,7 +1684,7 @@
   position:absolute;
   left:6px;
   top:1px;
-  width:62px;
+  width:61px;
   white-space:nowrap;
 }
 #u42_div {
@@ -1848,17 +1848,17 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:135px;
-  height:21px;
+  width:137px;
+  height:20px;
 }
 #u45 {
   border-width:0px;
   position:absolute;
   left:737px;
   top:63px;
-  width:135px;
-  height:21px;
-  font-family:'Segoe UI';
+  width:137px;
+  height:20px;
+  font-family:'Barlow';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -1868,7 +1868,7 @@
   position:absolute;
   left:2px;
   top:2px;
-  width:135px;
+  width:133px;
   white-space:nowrap;
 }
 #u46_img {
@@ -1901,17 +1901,17 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:127px;
-  height:21px;
+  width:137px;
+  height:20px;
 }
 #u47 {
   border-width:0px;
   position:absolute;
   left:737px;
   top:93px;
-  width:127px;
-  height:21px;
-  font-family:'Segoe UI';
+  width:137px;
+  height:20px;
+  font-family:'Barlow';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -1921,7 +1921,7 @@
   position:absolute;
   left:2px;
   top:2px;
-  width:129px;
+  width:133px;
   white-space:nowrap;
 }
 #u48_img {
@@ -1954,17 +1954,17 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:160px;
-  height:21px;
+  width:164px;
+  height:20px;
 }
 #u49 {
   border-width:0px;
   position:absolute;
   left:739px;
   top:124px;
-  width:160px;
-  height:21px;
-  font-family:'Segoe UI';
+  width:164px;
+  height:20px;
+  font-family:'Barlow';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -1974,7 +1974,7 @@
   position:absolute;
   left:2px;
   top:2px;
-  width:165px;
+  width:160px;
   white-space:nowrap;
 }
 #u22_state1 {
