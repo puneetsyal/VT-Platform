@@ -1,2 +1,0 @@
-# VisualThinking
-An axure prototype.
